@@ -1,0 +1,30 @@
+footer {
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+    text-align: center;
+    padding: 3px;
+    margin: auto;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ooga {
+    border: 2px, black;
+}
+.topnavbar {
+    overflow: hidden;
+    background-color: purple;
+}
+.topnavbar a {
+    float: left;
+    color: pink;
+    text-align: center;
+}
+.container {
+    width: 100%;
+}
